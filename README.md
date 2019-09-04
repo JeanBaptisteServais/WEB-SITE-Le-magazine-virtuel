@@ -1,6 +1,6 @@
 # Le-magazine-virtuel
 
-wind map
+# wind map
 
 1) résumé
 
@@ -10,7 +10,7 @@ wind map
 
 4) explication
 
-prediction pollution
+# prediction pollution
 
 1) résumé
 
@@ -20,7 +20,7 @@ prediction pollution
 
 4) explication
 
-Hairdresser-and-gym-functionalities
+# Hairdresser-and-gym-functionalities
 
 1) résumé
 
@@ -30,7 +30,7 @@ Hairdresser-and-gym-functionalities
 
 4) explication
 
-Scrap information
+# Scrap information
 
 1) résumé
 
