@@ -1,4 +1,8 @@
-# Le-magazine-virtuel
+# Le magazine virtuel OpenClassrooms Projects
+
+# A Webzine
+
+![maga](https://user-images.githubusercontent.com/54853371/64657769-45263d80-d435-11e9-96cb-0407976e1fed.png)
 
 # wind map
 
